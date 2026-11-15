@@ -1,0 +1,7 @@
+{
+  "name": "free-model-aggregator-02",
+  "private": true,
+  "type": "module",
+  "description": "make.fun entry: one server aggregating OpenRouter's free models behind both client wires.",
+  "license": "MIT"
+}
